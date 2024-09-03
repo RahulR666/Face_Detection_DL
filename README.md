@@ -27,7 +27,7 @@ This project involves developing a comprehensive image augmentation and object d
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/object-detection-augmentation.git
+    https://github.com/RahulR666/Face_Detection_DL.git
     cd object-detection-augmentation
     ```
 

@@ -56,9 +56,6 @@ This project involves developing a comprehensive image augmentation and object d
 
 Contributions are welcome! Feel free to submit a Pull Request or open an Issue to discuss potential improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
